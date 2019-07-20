@@ -38,7 +38,7 @@ npm start
 - `M` **multiply**(*a* b): Outputs product of inputs.
 - `N` **north**: Moves Northward, or bangs.
 - `O` **read**(*x* *y* read): Reads operand with offset.
-- `P` **push**(*len* *key* val): Writes eastward operand.
+- `P` **push**(*key* *len* val): Writes eastward operand.
 - `Q` **query**(*x* *y* *len*): Reads operands with offset.
 - `R` **random**(*min* max): Outputs random value.
 - `S` **south**: Moves southward, or bangs.
